@@ -14,7 +14,9 @@ Aplicação web simples que permite pesquisar e visualizar informações sobre p
 - Layout responsivo
 
 ## 📸 Preview
-![preview](screenshot.png)
+![Countries Guide]
+(https://github.com/user-attachments/assets/6c015e92-1b19-444a-81da-83d8f6c0ea12)
+
 
 ## ▶️ Como executar localmente
 ```bash
